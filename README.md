@@ -4,3 +4,4 @@ Welcome to the course page for HackYale's Natural Language Processing in Python.
 Cool Links:
 
 Peter Norvig's Spelling Corrector: http://norvig.com/spell-correct.html
+Mathew Jockers Using Sentiment Analysis to Map Plot: http://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot/
